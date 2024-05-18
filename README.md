@@ -1,8 +1,8 @@
 # AI-coach
 Knowing the correct and incorrect exercise position for the side plank exercise.
 ## 1. Install Required Libraries:
-Install the necessary libraries using pip
-pip install -q mediapipe
+Install the necessary libraries using pip <br/>
+pip install -q mediapipe <br/>
 pip install tensorflow
 ## 2. Import Libraries:
 -Copy and paste the provided code into a Jupyter Notebook.<br/>
